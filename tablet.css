@@ -1,0 +1,60 @@
+/* Navbar */
+.navbar ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* Headings */
+.headings {
+    font-size: 2.5rem;
+}
+
+
+
+
+/* About */
+#pic {
+    flex-direction: column;
+    align-items: center;
+}
+
+#pic img {
+    width: 200px;
+    height: 300px;
+}
+
+#intro h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+/* Services */
+/* #services {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+
+
+} */
+
+
+/* Contact */
+.imput {
+    width: 60%
+}
+
+#msg {
+    width: 55%;
+}
+
+#send {
+    width: 20%;
+}

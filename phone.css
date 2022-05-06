@@ -1,0 +1,45 @@
+/* Navbar */
+.navbar ul li {
+    font-family: century;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+
+/* Home */
+#home {
+    height: 820px;
+}
+
+.hedings {
+    font-size: 1.7rem;
+}
+
+/* about */
+#pic img {
+    width: 150px;
+    height: 275px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+/* Portfolio */
+.gallery img {
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+
+/* Contact  */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
